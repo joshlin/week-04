@@ -31,6 +31,9 @@ The exercise are laid out in the same way as before, however there are still som
 * Commit your changes to the 'solutions' branch
 * Push your 'solutions' branch up to Github
 
+for solutions for week-04 write the code that fixes the `find_quote_spec.rb` in `lib/find_quote.rb`. Fix the `display_superheroes_spec.rb` in `display_superheroes.rb`... etc etc.
+This is different from what initially was stated in the assignment.
+
 ### Switch to the 'solutions' branch
 
 Usually working on the *master* branch is acceptable behavior. However, there is a common workflow pattern to create a branch and to put work on that branch. Branching in git is easy.
